@@ -10,4 +10,5 @@ const privateVariable = 'Hello World';
 function privateMethod() { console.log(privateVariable); } return { publicMethod: function() { privateMethod(); } } })(); myModule.publicMethod();
 ```
 5) studying at BSUIR
-6) English level: A2
+6) Junior JS developer
+7) English level: A2
